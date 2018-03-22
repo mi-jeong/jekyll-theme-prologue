@@ -52,6 +52,7 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
+baseurl:
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
